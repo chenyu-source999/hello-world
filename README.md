@@ -1,3 +1,3 @@
 # hello-world
-此储存库用于联系Github
+此储存库用于练习Github
 (仅仅尝试）
